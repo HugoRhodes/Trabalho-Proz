@@ -1,0 +1,22 @@
+#quadrado {
+	width: 200px;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.verde {
+	background-color: green;
+	color: white;
+}
+
+.azul {
+	background-color: blue;
+	color: white;
+}
+
+.vermelho {
+	background-color: red;
+	color: white;
+}
